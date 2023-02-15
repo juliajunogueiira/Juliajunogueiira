@@ -2,7 +2,7 @@
 
 - Estudo Análise e Desenvolvimento de Sistemas, tenho me encantado muito por projetos de desenvolvimento Web, Games e Mobile! 💻☕❤️
 - Estou procurando colaborar em empresas da aréa de tecnologia e desenvolvimento de software..
-
+  
 ### Estou aprendendo
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
