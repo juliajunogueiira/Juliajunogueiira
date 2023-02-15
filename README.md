@@ -1,6 +1,9 @@
 ### Oi, eu sou a Julia 👋
 
-- Estudo Análise e Desenvolvimento de Sistemas, tenho me encantado muito por projetos de desenvolvimento Web, games e Mobile! 💻☕❤️
+
+- Conhecida como Juju!
+- Estudo Análise e Desenvolvimento de Sistemas, tenho me encantado muito por projetos de desenvolvimento Web, games e Mobile! 
+- 💻☕❤️
 
 - 🔠 Boa jogadora no "Termo"
 - 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript..
