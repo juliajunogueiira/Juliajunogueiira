@@ -1,4 +1,4 @@
-### Oi, eu sou a Julia 👋 </br></br>
+### Oi, eu sou a Julia 👋 </br>
 
 - Estudo Análise e Desenvolvimento de Sistemas, tenho me encantado muito por projetos de desenvolvimento Web, Games e Mobile! 💻☕❤️
 - Estou procurando colaborar em empresas da área de tecnologia e desenvolvimento de software..
