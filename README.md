@@ -1,16 +1,13 @@
-### Hi there 👋
+<>
 
-<!--
-**juliajunogueiira/Juliajunogueiira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Oi, eu sou a Julia 👋
 
-Here are some ideas to get you started:
+-Estudo Análise e Desenvolvimento de Sistemas, tenho me encantado muito por projetos de desenvolvimento Web, games e Mobile! 💻☕❤️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔠 Boa jogadora no "Termo"
+- 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript..
+- 👯 Estou procurando colaborar em empresas da aréa de tecnologia e desenvolvimento de software..
+- 📫 Como chegar até mim: @julia_junogueira
+- 😄 Pronomes: Ela/Dela
+
+</>
