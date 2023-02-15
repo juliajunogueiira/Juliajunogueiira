@@ -5,5 +5,5 @@
 - 🔠 Boa jogadora no "Termo"
 - 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript..
 - 👯 Estou procurando colaborar em empresas da aréa de tecnologia e desenvolvimento de software..
-- 📫 Como chegar até mim: @julia_junogueira.
+- 📫 Como chegar até mim: @julia_junogueiira.
 - 😄 Pronomes: Ela/Dela.
