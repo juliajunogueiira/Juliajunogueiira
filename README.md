@@ -7,3 +7,5 @@
 - 👯 Estou procurando colaborar em empresas da aréa de tecnologia e desenvolvimento de software..
 - 📫 Como chegar até mim: @julia_junogueiira.
 - 😄 Pronomes: Ela/Dela.
+
+![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliajunogueiira&show_icons=true&theme=transparent)
