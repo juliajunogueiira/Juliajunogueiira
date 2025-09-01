@@ -1,6 +1,6 @@
 ### Oi, eu sou a Julia 👋 </br>
 
-- Estudante em técnico em mecatrônica, tenho me encantado muito por projetos de desenvolvimento Web, Games e Mobile! 💻☕❤️
+- Estudante técnico em mecatrônica, tenho me encantado muito por projetos de desenvolvimento Web, Games e Mobile! 💻☕❤️
 - Estou procurando colaborar em empresas da área de tecnologia e desenvolvimento de software..
   
 ### Estou aprendendo
