@@ -10,12 +10,6 @@
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div><br/><br/>
 
-<div>
-  
-[![Julia's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliajunogueiira)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliajunogueiira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/juliajunogueiira)
